@@ -10,5 +10,5 @@ To-Do list
 * put css in external document
 * cleanup a bit of the html code
 
-This site can be viewed @ teamkryptonic.github.io
+This site can be viewed @ https://teamkryptonic.github.io
 
